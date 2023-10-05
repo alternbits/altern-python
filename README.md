@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://altern.ai">
-    <img src="altern-python.png" alt="Altern For Python" />
+    <img src="ast/altern-python.png" alt="Altern For Python" />
   </a>
 
   <p>Altern API python package</p>
