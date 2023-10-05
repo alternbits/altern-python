@@ -5,7 +5,7 @@
 
 </p>
 
-<p align="center">A Python package to interact with the [Altern](https://altern.ai) API</p>
+<p align="center">A Python package to interact with the <a href="https://altern.ai">Altern</a> API</p>
 
 install
 --------
