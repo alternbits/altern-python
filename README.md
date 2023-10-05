@@ -3,8 +3,9 @@
     <img src="ast/altern-python.png" alt="Altern For Python" />
   </a>
 
-  <p>Altern API python package</p>
 </p>
+
+<p align="center">A Python package to interact with the [Altern](https://altern.ai) API</p>
 
 install
 --------
