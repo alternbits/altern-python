@@ -10,5 +10,5 @@ setup(
     author="Dariush Abbasi",
     author_email="poshtehani@gmail.com",
     description="Altern API Package for python",
-    url="https://altern.ai/",  
+    url="https://github.com/alternbits/altern-python",  
 )
